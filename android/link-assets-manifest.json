@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/SofiaSansExtraCondensed-Black.ttf",
+      "sha1": "49ce4f158ab1e74d776be7d15183ef890779a6d9"
+    },
+    {
+      "path": "src/assets/fonts/SofiaSansExtraCondensed-Bold.ttf",
+      "sha1": "5b07b678705cf6fc438d865f607b96c30fe6f479"
+    },
+    {
+      "path": "src/assets/fonts/SofiaSansExtraCondensed-ExtraBold.ttf",
+      "sha1": "396d74e1bf9fe6cb82274cbb259f950bec1386b4"
+    },
+    {
+      "path": "src/assets/fonts/SofiaSansExtraCondensed-ExtraLight.ttf",
+      "sha1": "d044963b4197ff13a3e91e72058dad5bbb00de6f"
+    },
+    {
+      "path": "src/assets/fonts/SofiaSansExtraCondensed-Light.ttf",
+      "sha1": "307454914e25cfc3981b7ce2bf277062c599e0ab"
+    },
+    {
+      "path": "src/assets/fonts/SofiaSansExtraCondensed-Medium.ttf",
+      "sha1": "7fae4f8cdd1d1e6d401e50e241a495f322fa66e6"
+    },
+    {
+      "path": "src/assets/fonts/SofiaSansExtraCondensed-Regular.ttf",
+      "sha1": "068013fca1708c6f950b205cfd9f2ce66eb8e737"
+    },
+    {
+      "path": "src/assets/fonts/SofiaSansExtraCondensed-SemiBold.ttf",
+      "sha1": "5c959c4ebd96aab09346cc16e1ae1d747f9c8510"
+    }
+  ]
+}

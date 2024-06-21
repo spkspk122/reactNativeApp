@@ -9,12 +9,20 @@
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* FoodAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* FoodAppTests.m */; };
 		0C80B921A6F3F58F76C31292 /* libPods-FoodApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-FoodApp.a */; };
+		0CBE6A518AF94FFEBAAF66D8 /* SofiaSansExtraCondensed-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0E2BD53915E544E6970BE456 /* SofiaSansExtraCondensed-Light.ttf */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		1DA69BD1357746D88C639326 /* SofiaSansExtraCondensed-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8EB734D412ED48E4AF295D9F /* SofiaSansExtraCondensed-Regular.ttf */; };
+		2CC5F1B76249449E873B405F /* SofiaSansExtraCondensed-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C6913C16486F45DEB6568A35 /* SofiaSansExtraCondensed-SemiBold.ttf */; };
+		52172C37E3BE491D943A48BF /* SofiaSansExtraCondensed-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 12006E01E34A46B480EB1CF7 /* SofiaSansExtraCondensed-Black.ttf */; };
+		696F02F8314A40A2942A2619 /* SofiaSansExtraCondensed-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F4A98746EBEC4869B74CA2E2 /* SofiaSansExtraCondensed-Bold.ttf */; };
 		7699B88040F8A987B510C191 /* libPods-FoodApp-FoodAppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-FoodApp-FoodAppTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		8B30A8EB209C4D778CBF9A97 /* SofiaSansExtraCondensed-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0B4A9C298DD64C7AAAF31B5A /* SofiaSansExtraCondensed-ExtraBold.ttf */; };
+		916F7D6A85894D69B5732B1D /* SofiaSansExtraCondensed-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9AE1907877D548F0924991A3 /* SofiaSansExtraCondensed-Medium.ttf */; };
 		9BDCAE6FDAB907C4B4B6D7E6 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = BAADD1089240982F7A6D688C /* PrivacyInfo.xcprivacy */; };
+		CE74642B981C41F7950208B8 /* SofiaSansExtraCondensed-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C37E6FF528184753B43A6434 /* SofiaSansExtraCondensed-ExtraLight.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -31,6 +39,9 @@
 		00E356EE1AD99517003FC87E /* FoodAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FoodAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* FoodAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FoodAppTests.m; sourceTree = "<group>"; };
+		0B4A9C298DD64C7AAAF31B5A /* SofiaSansExtraCondensed-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SofiaSansExtraCondensed-ExtraBold.ttf"; path = "../src/assets/fonts/SofiaSansExtraCondensed-ExtraBold.ttf"; sourceTree = "<group>"; };
+		0E2BD53915E544E6970BE456 /* SofiaSansExtraCondensed-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SofiaSansExtraCondensed-Light.ttf"; path = "../src/assets/fonts/SofiaSansExtraCondensed-Light.ttf"; sourceTree = "<group>"; };
+		12006E01E34A46B480EB1CF7 /* SofiaSansExtraCondensed-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SofiaSansExtraCondensed-Black.ttf"; path = "../src/assets/fonts/SofiaSansExtraCondensed-Black.ttf"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* FoodApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoodApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = FoodApp/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = FoodApp/AppDelegate.mm; sourceTree = "<group>"; };
@@ -45,8 +56,13 @@
 		5DCACB8F33CDC322A6C60F78 /* libPods-FoodApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FoodApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = FoodApp/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-FoodApp-FoodAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FoodApp-FoodAppTests.release.xcconfig"; path = "Target Support Files/Pods-FoodApp-FoodAppTests/Pods-FoodApp-FoodAppTests.release.xcconfig"; sourceTree = "<group>"; };
+		8EB734D412ED48E4AF295D9F /* SofiaSansExtraCondensed-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SofiaSansExtraCondensed-Regular.ttf"; path = "../src/assets/fonts/SofiaSansExtraCondensed-Regular.ttf"; sourceTree = "<group>"; };
+		9AE1907877D548F0924991A3 /* SofiaSansExtraCondensed-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SofiaSansExtraCondensed-Medium.ttf"; path = "../src/assets/fonts/SofiaSansExtraCondensed-Medium.ttf"; sourceTree = "<group>"; };
 		BAADD1089240982F7A6D688C /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; name = PrivacyInfo.xcprivacy; path = FoodApp/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		C37E6FF528184753B43A6434 /* SofiaSansExtraCondensed-ExtraLight.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SofiaSansExtraCondensed-ExtraLight.ttf"; path = "../src/assets/fonts/SofiaSansExtraCondensed-ExtraLight.ttf"; sourceTree = "<group>"; };
+		C6913C16486F45DEB6568A35 /* SofiaSansExtraCondensed-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SofiaSansExtraCondensed-SemiBold.ttf"; path = "../src/assets/fonts/SofiaSansExtraCondensed-SemiBold.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		F4A98746EBEC4869B74CA2E2 /* SofiaSansExtraCondensed-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SofiaSansExtraCondensed-Bold.ttf"; path = "../src/assets/fonts/SofiaSansExtraCondensed-Bold.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +143,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				B65F2B9100EF4D67BB2DE784 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -140,6 +157,22 @@
 				00E356EE1AD99517003FC87E /* FoodAppTests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		B65F2B9100EF4D67BB2DE784 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				12006E01E34A46B480EB1CF7 /* SofiaSansExtraCondensed-Black.ttf */,
+				F4A98746EBEC4869B74CA2E2 /* SofiaSansExtraCondensed-Bold.ttf */,
+				0B4A9C298DD64C7AAAF31B5A /* SofiaSansExtraCondensed-ExtraBold.ttf */,
+				C37E6FF528184753B43A6434 /* SofiaSansExtraCondensed-ExtraLight.ttf */,
+				0E2BD53915E544E6970BE456 /* SofiaSansExtraCondensed-Light.ttf */,
+				9AE1907877D548F0924991A3 /* SofiaSansExtraCondensed-Medium.ttf */,
+				8EB734D412ED48E4AF295D9F /* SofiaSansExtraCondensed-Regular.ttf */,
+				C6913C16486F45DEB6568A35 /* SofiaSansExtraCondensed-SemiBold.ttf */,
+			);
+			name = Resources;
+			path = "";
 			sourceTree = "<group>";
 		};
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
@@ -249,6 +282,14 @@
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				9BDCAE6FDAB907C4B4B6D7E6 /* PrivacyInfo.xcprivacy in Resources */,
+				52172C37E3BE491D943A48BF /* SofiaSansExtraCondensed-Black.ttf in Resources */,
+				696F02F8314A40A2942A2619 /* SofiaSansExtraCondensed-Bold.ttf in Resources */,
+				8B30A8EB209C4D778CBF9A97 /* SofiaSansExtraCondensed-ExtraBold.ttf in Resources */,
+				CE74642B981C41F7950208B8 /* SofiaSansExtraCondensed-ExtraLight.ttf in Resources */,
+				0CBE6A518AF94FFEBAAF66D8 /* SofiaSansExtraCondensed-Light.ttf in Resources */,
+				916F7D6A85894D69B5732B1D /* SofiaSansExtraCondensed-Medium.ttf in Resources */,
+				1DA69BD1357746D88C639326 /* SofiaSansExtraCondensed-Regular.ttf in Resources */,
+				2CC5F1B76249449E873B405F /* SofiaSansExtraCondensed-SemiBold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
