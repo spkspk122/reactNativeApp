@@ -429,4 +429,21 @@ const baseStyle = {
   },
 };
 
-export { baseStyle, textAlignment, textTransformation };
+// styles.js
+ const lightTheme = {
+  backgroundColor: '#FFFFFF',
+  textColor: '#000000',
+  primaryColor: '#007BFF',
+  secondaryColor: '#6C757D',
+  // Add more styles specific to light theme if needed
+};
+ const darkTheme = {
+  backgroundColor: '#333333',
+  textColor: '#FFFFFF',
+  primaryColor: '#17A2B8',
+  secondaryColor: '#ADB5BD',
+  // Add more styles specific to dark theme if needed
+};
+
+
+export { baseStyle, textAlignment, textTransformation,lightTheme,darkTheme };
