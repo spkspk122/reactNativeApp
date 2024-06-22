@@ -2,7 +2,7 @@ import { View, Text } from 'react-native'
 import React, { useEffect } from 'react'
 import NavigationServices from '../../../navigations/NavigationServices'
 import { SCREENS } from '../../../navigations/screenConstant'
-import { flexDirections } from '../../../utlis/baseStyle/theme'
+import { baseStyle, flexDirections } from '../../../utlis/baseStyle/theme'
 
 const Splash = () => {
   useEffect(()=>{
@@ -13,7 +13,7 @@ NavigationServices.navigate(SCREENS.Register)
   return (
     <View style={[{flex:1,backgroundColor:'red'}]}>
       <Text>Spash</Text>
-      <Text>Hello</Text>
+      <Text style={baseStyle}>Hello</Text>
     </View>
   )
 }
