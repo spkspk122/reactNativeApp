@@ -75,28 +75,28 @@ const baseStyle = {
   // 400
   txtStyleSofiaRegular: (fontSize, fontColor) => ({
     fontFamily: "SofiaSansExtraCondensed-Regularr",
-    fontSize: ms(fontSize),
+    fontSize: hp(fontSize),
     color: fontColor,
   }),
 
   // 500
   txtStyleSofiaMedium: (fontSize, fontColor) => ({
     fontFamily: "SofiaSansExtraCondensed-Medium",
-    fontSize: ms(fontSize),
+    fontSize: hp(fontSize),
     color: fontColor,
   }),
 
   // 700
   txtStyleSofiaSemiBold: (fontSize, fontColor) => ({
     fontFamily: "SofiaSansExtraCondensed-SemiBold",
-    fontSize: ms(fontSize),
+    fontSize: hp(fontSize),
     color: fontColor,
   }),
 
   // bold
   txtStyleSofiasBold: (fontSize, fontColor) => ({
     fontFamily: "SofiaSansExtraCondensed-Bold",
-    fontSize: ms(fontSize),
+    fontSize: hp(fontSize),
     color: fontColor,
   }),
 
